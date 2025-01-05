@@ -10,6 +10,12 @@ Clique no botão abaixo para obter uma seed aleatória. O sistema escolherá um 
 
 > **Nota:** O link acima deve ser gerado dinamicamente por um script que escolhe um número aleatório e redireciona para o arquivo correspondente. Certifique-se de que a lógica para determinar a seed mais próxima esteja implementada em seu código.
 
+## Como Funciona
+
+1. **Clique no botão "Seed Aleatória".**
+2. O sistema escolherá um número aleatório.
+3. Você será redirecionado para o arquivo correspondente à seed mais próxima.
+
 ## Contribuições
 
 Sinta-se à vontade para contribuir com o projeto! Se você tiver sugestões ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
