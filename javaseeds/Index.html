@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DarkSpeedSeeds - Seeds Java</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .button {
+            background-color: #FF0000;
+            color: white;
+            padding: 15px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Seeds Java</h1>
+    <p>Bem-vindo à seção de Seeds para Minecraft Java! Clique no botão abaixo para obter uma seed aleatória.</p>
+
+    <button class="button" onclick="gerarSeedAleatoria()">Seed Aleatória</button>
+
+    <script>
+        function gerarSeedAleatoria() {
+            // Exemplo de seeds disponíveis
+            const seeds = ['14514', '12345', '67890', '54321', '98765']; // Adicione suas seeds aqui
+            const seedAleatoria = seeds[Math.floor(Math.random() * seeds.length)];
+            window.location.href = `./${seedAleatoria}.md`; // Redireciona para o arquivo correspondente
+        }
+    </script>
+
+</body>
+</html>
