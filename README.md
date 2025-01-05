@@ -8,7 +8,7 @@ Ao acessar o DarkSpeedSeeds, você verá opções para selecionar a plataforma d
 
 ## Selecionar Plataforma
 
-[![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Lucashgdhhyy/DarkSpeedrunSeeds/tree/main/javaseeds) [![Bedrock](https://img.shields.io/badge/Bedrock-00BFFF?style=for-the-badge&logo=minecraft&logoColor=white)](https://github.com/Lucashgdhhyy/DarkSpeedrunSeeds/tree/main/bedrockseeds)
+[![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Lucashgdhhyy/DarkSpeedrunSeeds/tree/main/javaseeds/README.md) [![Bedrock](https://img.shields.io/badge/Bedrock-00BFFF?style=for-the-badge&logo=minecraft&logoColor=white)](https://github.com/Lucashgdhhyy/DarkSpeedrunSeeds/tree/main/bedrockseeds/README.md)
 
 ## Contribuições
 
